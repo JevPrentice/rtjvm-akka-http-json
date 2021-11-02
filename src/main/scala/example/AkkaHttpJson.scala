@@ -30,7 +30,6 @@ trait PersonJsonProtocol extends DefaultJsonProtocol {
 
 // step 3 add implicit json converts into the scope of your route
 
-
 /**
  *
  *
